@@ -89,3 +89,4 @@ To lint your front-end code, use `npm run lint`.
 To test the smart contract, run `npx hardhat test`.
 
 Basic tests can be found in `test/Minter.test.js`.
+Demo Video: https://drive.google.com/file/d/1Bp9ptlJS4L40ucpE_2Kh5zH4XJ-J165t/view?usp=sharing
